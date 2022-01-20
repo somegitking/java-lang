@@ -6,6 +6,9 @@ import java.io.File;
 public class Exam0130 {
 
   public static void main(String[] args) throws Exception {
+    // File 클래스
+    // => 파일이나 디렉토리 정보를 관리
+    // => 파일이나 디렉토리를 생성,삭제,변경
 
     // 존재하지 않는 폴더 조회
     //
